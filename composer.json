@@ -1,0 +1,19 @@
+{
+    "name": "s22h/php-view",
+    "description": "A small PHP template engine.",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "s22h",
+            "email": "o_o@trollsoft.net"
+        }
+    ],
+    "require": {
+    },
+	"autoload": {
+		"psr-4": {
+			"Trollsoft\\": "src/"
+		}
+	}
+}
