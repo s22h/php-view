@@ -1,2 +1,2 @@
-# PHP Framework
-A small PHP framework
+# PHP View
+A small PHP template class.
