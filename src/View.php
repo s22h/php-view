@@ -1,6 +1,6 @@
 <?php
 
-namespace Trollsoft;
+namespace s22h;
 
 class View {
 	protected $file;

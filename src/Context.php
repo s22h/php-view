@@ -1,6 +1,6 @@
 <?php
 
-namespace Trollsoft;
+namespace s22h;
 
 class Context {
 	protected $data = array();
